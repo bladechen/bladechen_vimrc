@@ -1,2 +1,4 @@
 my vimrc
-test pull
+test pull  
+
+remote edit
